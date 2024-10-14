@@ -1,7 +1,7 @@
 # Hi, I’m Kalyani Batle.
 
 
-🔭 I’m currently working on creating various projects on cybersecurity and optimizing my role in cybersecurity analysis and pentesting.
+🔭 Thank you for coming to my space. This is where I make magics and share it to the world!
 
 🌱 I’m currently learning about advanced penetration testing techniques and staying updated with the latest cybersecurity trends and tools.
 
@@ -11,9 +11,9 @@
 
 💬 Ask me about security frameworks, penetration testing methodologies, or any specific tools I’ve worked with.
 
-📫 How to reach me: [Linkedin]( https://www.linkedin.com/in/kalyanibatle/).
+📫I created cybersecurity portfolio. Please find it [here](https://github.com/highfunctioning/github.io).
 
-Find my [portfolio](https://github.com/highfunctioning/github.io). 
+ [Linkedin]( https://www.linkedin.com/in/kalyanibatle/).
 
 😄 Pronouns: She/Her
 
