@@ -12,7 +12,8 @@ Hi, I’m Kalyani Batle.
 💬 Ask me about security frameworks, penetration testing methodologies, or any specific tools I’ve worked with.
 
 📫 How to reach me: [Linkedin]( https://www.linkedin.com/in/kalyanibatle/).
-Find me [portfolio](https://github.com/highfunctioning/github.io). 
+
+Find my [portfolio](https://github.com/highfunctioning/github.io). 
 
 😄 Pronouns: She/Her
 
