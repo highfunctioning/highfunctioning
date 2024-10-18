@@ -1,4 +1,5 @@
-# Hi, I’m Kalyani Batle.. I am a Student at Concordia University pursuing my Master's Degree in Information Systems Security.
+# Hi, I’m Kalyani Batle..
+I am a Student at Concordia University pursuing my Master's Degree in Information Systems Security.
 
 
 🔭 Thank you for coming to my space. This is where I make magics and share it to the world!
