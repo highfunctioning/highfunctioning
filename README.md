@@ -3,7 +3,7 @@
 
 🔭 Thank you for coming to my space. This is where I make magics and share it to the world!
 
-🌱 I’m currently learning about advanced penetration testing techniques and staying updated with the latest cybersecurity trends and tools.
+🌱 I’m currently learning about soc analysis and cloud security as  penetration tester and staying updated with the latest cybersecurity trends and tools.
 
 👯 I’m looking to collaborate on projects related to SOC analysis, SIEM implementation, and vulnerability assessments.
 
