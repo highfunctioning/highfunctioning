@@ -13,7 +13,6 @@
 
 📫I created cybersecurity portfolio. Please find it [here](https://github.com/highfunctioning/github.io).
 
- [Linkedin]( https://www.linkedin.com/in/kalyanibatle/).
 
 😄 Pronouns: She/Her
 
