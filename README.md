@@ -14,4 +14,4 @@ I am a Student at Concordia University pursuing my Master's Degree in Informatio
 
 📫I created cybersecurity portfolio. Please find it [here](https://github.com/highfunctioning/github.io).
 
-⚡ Fun fact: I’m passionate about ethical hacking and love exploring new challenges in cybersecurity!
+⚡I’m passionate about ethical hacking and love exploring new challenges in cybersecurity!
